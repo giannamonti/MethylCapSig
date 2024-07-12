@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+import(geepack)
+importFrom("stats", "cor", "pnorm", "rnorm", "t.test", "var")

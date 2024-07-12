@@ -1,0 +1,17 @@
+442316a8dba64b03459cf74cf370a551 *DESCRIPTION
+3e0a9f6476df50ced6176351057ad507 *NAMESPACE
+a116b6cdc54f3ab253db58f718c82cd5 *R/cqtest.R
+5c2f6cd87217a47a91158e9df7b9d976 *R/methmage.R
+8105709f8c46bc21d2a01559511c9061 *R/mvlognormal.R
+d1471b31b0428d8fb884d837d3277bfb *R/patest.R
+09bf5a209dd7efc35c5fb82d1e4cf443 *R/skktest.R
+2775e0b718375764cc0364dd73c860ae *R/ttest.R
+cb374a95b9b8d45f6fbba62c390a43fe *data/diffMethylData.rda
+8fdbff6499ccaebe6c1e569059df2858 *man/MethylCapSig-package.Rd
+7046d737ce9c5f106c573dc8ee412a60 *man/cqtest.Rd
+b4393504c985b65d177fa46c104a4bc6 *man/diffMethylData.Rd
+0ecabcc6812f53d8b076080510fc4508 *man/methmage.Rd
+7f206b28b8e5286779d2d7c6ed0e4f71 *man/mvlognormal.Rd
+18124932333460e275ada4ea71bab9cc *man/patest.Rd
+d6a0ffef5f7e4c02c307476a4192d4c5 *man/skktest.Rd
+ea560d19eabc4e589e6604a5723d7773 *man/ttest.Rd
